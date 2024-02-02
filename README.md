@@ -119,8 +119,6 @@
   </section>
 
   <section id="skills">
-    <h2>Skills</h2>
-   
         <h2>Technical Skills</h2>
         <ul>
           <li>HTML5</li>
