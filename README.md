@@ -120,9 +120,7 @@
 
   <section id="skills">
     <h2>Skills</h2>
-    <div id="skillsModal" class="modal">
-      <div class="modal-content">
-        <span class="close" onclick="closeModal()">&times;</span>
+   
         <h2>Technical Skills</h2>
         <ul>
           <li>HTML5</li>
@@ -133,8 +131,6 @@
           <li>OData</li>
           <li>BTP (Business Technology Platform)</li>
         </ul>
-      </div>
-    </div>
   </section>
 </body>
 </html>
