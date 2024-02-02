@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -121,8 +120,6 @@
 
   <section id="skills">
     <h2>Skills</h2>
-    <button onclick="openModal()">View Skills</button>
-
     <div id="skillsModal" class="modal">
       <div class="modal-content">
         <span class="close" onclick="closeModal()">&times;</span>
@@ -139,16 +136,5 @@
       </div>
     </div>
   </section>
-
-  <script>
-    function openModal() {
-      document.getElementById('skillsModal').style.display = 'block';
-    }
-
-    function closeModal() {
-      document.getElementById('skillsModal').style.display = 'none';
-    }
-  </script>
-
 </body>
 </html>
